@@ -35,5 +35,3 @@ Unlike standard EDA, this project incorporates:
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run `hotel_booking_EDA_project.ipynb` to see the full pipeline.
 
----
-**Author:** [Your Name] | Data Analyst 📊
