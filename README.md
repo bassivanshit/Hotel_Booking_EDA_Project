@@ -31,7 +31,7 @@ Unlike standard EDA, this project incorporates:
 ---
 
 ### 🚀 How to Use
-1. Clone the repo: `git clone [your-link-here]`
+1. Clone the repo: `git clone`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run `hotel_booking_EDA_project.ipynb` to see the full pipeline.
 
